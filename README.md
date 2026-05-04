@@ -10,7 +10,7 @@
  
 --- 
 <div align="center">
-	<h3>🐳 Join the community for more OA updates 😎</h3>
+	<h3>🐳 Join the community for more OA updates 🥑</h3>
   <div>
       <a href="https://discord.gg/kSbWpSGUTH">
       <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
