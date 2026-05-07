@@ -2,6 +2,8 @@
 
 ⭐ This board is aiming to help you centralize the Online Assessments from different companies. It is updated constantly to make sure you have the most update to date OAs.
 
+🍊 FastPrep question bank now contains ~1375 actual interview questions. 
+
 🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs up to date 😳
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
