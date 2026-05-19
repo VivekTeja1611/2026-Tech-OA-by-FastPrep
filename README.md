@@ -27,6 +27,10 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Drone Delivery Route](https://www.fastprep.io/problems/amazon-drone-delivery-route) | <a href="https://www.fastprep.io/problems/amazon-drone-delivery-route"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 18, 2026 |
+| Google | [Tic-Tac-Toe Game Status](https://www.fastprep.io/problems/google-tic-tac-toe-game-status) | <a href="https://www.fastprep.io/problems/google-tic-tac-toe-game-status"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 18, 2026 |
+| Amazon | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | <a href="https://www.fastprep.io/problems/amazon-minimum-merge-conflicts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 17, 2026 |
+| Airbnb | [Parse Query String](https://www.fastprep.io/problems/airbnb-parse-query-string) | <a href="https://www.fastprep.io/problems/airbnb-parse-query-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 16, 2026 |
 | Whatnot | [User Journey Paths](https://www.fastprep.io/problems/whatnot-user-journey-paths) | <a href="https://www.fastprep.io/problems/whatnot-user-journey-paths"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 11, 2026 |
 | Airbnb | [Print Sentences as Table](https://www.fastprep.io/problems/airbnb-print-sentences-as-table) | <a href="https://www.fastprep.io/problems/airbnb-print-sentences-as-table"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 11, 2026 |
 | Snowflake | [Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake) | <a href="https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 11, 2026 |
