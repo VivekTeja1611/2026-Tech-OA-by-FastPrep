@@ -1,10 +1,10 @@
-# 2026 Tech Internship/Fulltime OAs
+# 2026 Tech Internship/Fulltime OAs / Interview Questions
 
-⭐ This board is aiming to help you centralize the Online Assessments from different companies. It is updated constantly to make sure you have the most update to date OAs.
+⭐ This board is aiming to help you centralize the Online Assessments / Interview Questions from different companies. It is updated constantly to make sure you have the most update to date OAs.
 
 🍊 FastPrep question bank now contains ~1400 actual interview questions. 
 
-🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs up to date 😳
+🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs / interview questions up to date 😳
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
@@ -12,7 +12,7 @@
  
 --- 
 <div align="center">
-	<h3>🐳 Join the community for more OA updates 🥑</h3>
+	<h3>🐳 Join the community for more OA / interview questions updates 🥑</h3>
   <div>
       <a href="https://discord.gg/kSbWpSGUTH">
       <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
