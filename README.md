@@ -1,4 +1,4 @@
-# 2026 Tech Internship/Fulltime OAs / Interview Questions
+# 2026 Tech Internship/Fulltime OAs and Interview Questions
 
 ⭐ This board is aiming to help you centralize the Online Assessments / Interview Questions from different companies. It is updated constantly to make sure you have the most update to date OAs.
 
